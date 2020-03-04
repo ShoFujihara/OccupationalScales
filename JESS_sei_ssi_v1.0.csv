@@ -1,0 +1,302 @@
+seq,title,sig,name,large,medium,occ,sei,ssi,sei_m,sei_l,ssi_m,ssi_l
+1,A. ADMINISTRATIVE AND MANAGERIAL WORKERS,A,ADMINISTRATIVE AND MANAGERIAL WORKERS,1,,,,,,64.357597,,59.793217
+2, (1) Management Government Officials,1),Management Government Officials,1,1,,,,68.451881,64.357597,62.200001,59.793217
+3,   1. Management government officials,1,Management government officials,1,1,1,68.451881,62.200001,68.451881,64.357597,62.200001,59.793217
+4, (2) Officers of Companies and Organizations,2),Officers of Companies and Organizations,1,2,,,,64.333862,64.357597,62.10677,59.793217
+5,   2. Company officers,2,Company officers,1,2,2,64.121567,61.799999,64.333862,64.357597,62.10677,59.793217
+6,"   3. Officers of other corporations, organizations",3,"Officers of other corporations, organizations",1,2,3,68.965759,68.800003,64.333862,64.357597,62.10677,59.793217
+7, (3) Other Administrative and Managerial Workers,3),Other Administrative and Managerial Workers,1,3,,,,63.511246,64.357597,52.769707,59.793217
+8,   4. Administrative and managerial workers of corporations and organizations,4,Administrative and managerial workers of corporations and organizations,1,3,4,65.252792,53,63.511246,64.357597,52.769707,59.793217
+9,   5. Administrative and managerial workers not classified elsewhere,5,Administrative and managerial workers not classified elsewhere,1,3,5,50.128162,51,63.511246,64.357597,52.769707,59.793217
+10,B. PROFESSIONAL AND ENGINEERING WORKERS,B,PROFESSIONAL AND ENGINEERING WORKERS,2,,,,,,60.469208,,59.301285
+11, (4) Researchers,4),Researchers,2,4,,,,68.343895,60.469208,70.648186,59.301285
+12,   6. Natural science researchers,6,Natural science researchers,2,4,6,68.257042,70.5,68.343895,60.469208,70.648186,59.301285
+13,"   7. Humanities, social science, and other researchers",7,"Humanities, social science, and other researchers",2,4,7,71.246132,75.599998,68.343895,60.469208,70.648186,59.301285
+14, (5) Engineers,5),Engineers,2,5,,,,62.855247,60.469208,57.088589,59.301285
+15,"   8. Agriculture, forestry, fishery and food engineers",8,"Agriculture, forestry, fishery and food engineers",2,5,8,62.467365,55.799999,62.855247,60.469208,57.088589,59.301285
+16,"   9. Electrical, electronic, telecommunications engineers (except communication network engineers)",9,"Electrical, electronic, telecommunications engineers (except communication network engineers)",2,5,9,64.046021,56.200001,62.855247,60.469208,57.088589,59.301285
+17,   10. Machinery engineers,10,Machinery engineers,2,5,10,63.776367,54.900002,62.855247,60.469208,57.088589,59.301285
+18,   11. Transportation equipment engineers,11,Transportation equipment engineers,2,5,11,64.026169,56.599998,62.855247,60.469208,57.088589,59.301285
+19,   12. Metal engineers,12,Metal engineers,2,5,12,65.421333,58,62.855247,60.469208,57.088589,59.301285
+20,   13. Chemical engineers,13,Chemical engineers,2,5,13,67.675636,62.299999,62.855247,60.469208,57.088589,59.301285
+21,   14. Architectural engineers,14,Architectural engineers,2,5,14,61.025257,57,62.855247,60.469208,57.088589,59.301285
+22,   15. Civil engineers and surveyors,15,Civil engineers and surveyors,2,5,15,59.767265,53.799999,62.855247,60.469208,57.088589,59.301285
+23,   16. System consultants and designers,16,System consultants and designers,2,5,16,63.547924,59.400002,62.855247,60.469208,57.088589,59.301285
+24,   17. Software creators,17,Software creators,2,5,17,61.188984,55.799999,62.855247,60.469208,57.088589,59.301285
+25,   18. Other data processing and communication engineers,18,Other data processing and communication engineers,2,5,18,61.936398,58.099998,62.855247,60.469208,57.088589,59.301285
+26,   19. Other engineers,19,Other engineers,2,5,19,63.177673,56.700001,62.855247,60.469208,57.088589,59.301285
+27, (6) Health Care Workers,6),Health Care Workers,2,6,,,,58.138218,60.469208,56.721519,59.301285
+28,   20. Doctors,20,Doctors,2,6,20,77.542068,80.699997,58.138218,60.469208,56.721519,59.301285
+29,   21. Dental surgeons,21,Dental surgeons,2,6,21,72.39856,77.900002,58.138218,60.469208,56.721519,59.301285
+30,   22. Veterinary surgeons,22,Veterinary surgeons,2,6,22,69.845512,70.400002,58.138218,60.469208,56.721519,59.301285
+31,   23. Pharmacists,23,Pharmacists,2,6,23,67.392616,70,58.138218,60.469208,56.721519,59.301285
+32,   24. Public health nurses,24,Public health nurses,2,6,24,59.321617,65.900002,58.138218,60.469208,56.721519,59.301285
+33,   25. Midwives,25,Midwives,2,6,25,57.290607,54,58.138218,60.469208,56.721519,59.301285
+34,   26. Nurses (including assistant nurses),26,Nurses (including assistant nurses),2,6,26,53.877853,48,58.138218,60.469208,56.721519,59.301285
+35,   27. Diagnostic radiographers,27,Diagnostic radiographers,2,6,27,60.587872,58.599998,58.138218,60.469208,56.721519,59.301285
+36,   28. Clinical laboratory technicians,28,Clinical laboratory technicians,2,6,28,58.880745,60.700001,58.138218,60.469208,56.721519,59.301285
+37,"   29. Physiotherapists, occupational therapists",29,"Physiotherapists, occupational therapists",2,6,29,57.475777,57,58.138218,60.469208,56.721519,59.301285
+38,"   30. Certified orthoptists, speech therapists",30,"Certified orthoptists, speech therapists",2,6,30,58.820286,61.599998,58.138218,60.469208,56.721519,59.301285
+39,   31. Dental hygienists,31,Dental hygienists,2,6,31,49.282379,51.400002,58.138218,60.469208,56.721519,59.301285
+40,   32. Dental technicians,32,Dental technicians,2,6,32,54.250351,55.099998,58.138218,60.469208,56.721519,59.301285
+41,   33. Nutritionists,33,Nutritionists,2,6,33,56.443501,56.099998,58.138218,60.469208,56.721519,59.301285
+42,"   34. Masseurs, chiropractors, acupuncturists, moxacauterists and judo-orthopedists",34,"Masseurs, chiropractors, acupuncturists, moxacauterists and judo-orthopedists",2,6,34,51.340527,61.200001,58.138218,60.469208,56.721519,59.301285
+43,   35. Other health care workers,35,Other health care workers,2,6,35,53.72253,55.700001,58.138218,60.469208,56.721519,59.301285
+44, (7) Social Welfare Specialist Professionals,7),Social Welfare Specialist Professionals,2,7,,,,53.664932,60.469208,54.496593,59.301285
+45,   36. Childcare workers,36,Childcare workers,2,7,36,51.513535,53.799999,53.664932,60.469208,54.496593,59.301285
+46,   37. Other social welfare specialist professionals,37,Other social welfare specialist professionals,2,7,37,57.072754,55.599998,53.664932,60.469208,54.496593,59.301285
+47, (8) Legal Workers,8),Legal Workers,2,8,,,,68.440247,60.469208,71.930443,59.301285
+48,"   38. Judges, public prosecutors and attorneys",38,"Judges, public prosecutors and attorneys",2,8,38,73.586945,76.099998,68.440247,60.469208,71.930443,59.301285
+49,   39. Patent attorneys and judicial scriveners40 Other legal workers,39,Patent attorneys and judicial scriveners40 Other legal workers,2,8,39,67.192368,75.199997,68.440247,60.469208,71.930443,59.301285
+50,   40. Other legal workers,40,Other legal workers,2,8,40,63.687149,63.900002,68.440247,60.469208,71.930443,59.301285
+51," (9) Management, Finance, and Insurance Specialists",9),"Management, Finance, and Insurance Specialists",2,9,,,,68.084778,60.469208,66.010193,59.301285
+52,   41. Certified public accountants,41,Certified public accountants,2,9,41,72.900864,70,68.084778,60.469208,66.010193,59.301285
+53,   42. Licensed tax accountants,42,Licensed tax accountants,2,9,42,69.470482,70.599998,68.084778,60.469208,66.010193,59.301285
+54,   43. Certified social insurance and labor consultant,43,Certified social insurance and labor consultant,2,9,43,63.343082,64.900002,68.084778,60.469208,66.010193,59.301285
+55,"   44. Other management, finance, and insurance professionals",44,"Other management, finance, and insurance professionals",2,9,44,66.89402,62.299999,68.084778,60.469208,66.010193,59.301285
+56, (10) Teachers,10),Teachers,2,10,,,,68.114273,60.469208,65.582039,59.301285
+57,   45. Kindergarten teachers,45,Kindergarten teachers,2,10,45,55.47633,59.099998,68.114273,60.469208,65.582039,59.301285
+58,   46. Elementary school teachers,46,Elementary school teachers,2,10,46,69.164993,64.800003,68.114273,60.469208,65.582039,59.301285
+59,   47. Junior high school teachers,47,Junior high school teachers,2,10,47,69.633835,65.599998,68.114273,60.469208,65.582039,59.301285
+60,   48. Senior high school teachers,48,Senior high school teachers,2,10,48,70.246231,64.800003,68.114273,60.469208,65.582039,59.301285
+61,   49. Special needs education school teachers,49,Special needs education school teachers,2,10,49,68.472015,64.199997,68.114273,60.469208,65.582039,59.301285
+62,   50. University professors,50,University professors,2,10,50,73.02401,78.300003,68.114273,60.469208,65.582039,59.301285
+63,   51. Other teachers,51,Other teachers,2,10,51,58.572174,57.599998,68.114273,60.469208,65.582039,59.301285
+64, (11) Workers in Religion,11),Workers in Religion,2,11,,,,60.593887,60.469208,62.299999,59.301285
+65,   52. Workers in religion,52,Workers in religion,2,11,52,60.593887,62.299999,60.593887,60.469208,62.299999,59.301285
+66," (12) Authors, Journalists, Editors",12),"Authors, Journalists, Editors",2,12,,,,62.899406,60.469208,65.963982,59.301285
+67,   53. Authors,53,Authors,2,12,53,59.586681,67.5,62.899406,60.469208,65.963982,59.301285
+68,"   54. Journalists, editors",54,"Journalists, editors",2,12,54,64.11573,65.400002,62.899406,60.469208,65.963982,59.301285
+69," (13) Artists, Designers, Photographers, Film Operators",13),"Artists, Designers, Photographers, Film Operators",2,13,,,,53.513134,60.469208,56.506123,59.301285
+70,"   55. Sculptors, painters and industrial artists",55,"Sculptors, painters and industrial artists",2,13,55,47.128735,58,53.513134,60.469208,56.506123,59.301285
+71,   56. Designers,56,Designers,2,13,56,54.949963,56.599998,53.513134,60.469208,56.506123,59.301285
+72,"   57. Photographers, film operators",57,"Photographers, film operators",2,13,57,52.048058,55.5,53.513134,60.469208,56.506123,59.301285
+73," (14) Musicians, Stage Designers",14),"Musicians, Stage Designers",2,14,,,,55.663498,60.469208,65.985237,59.301285
+74,   58. Musicians,58,Musicians,2,14,58,51.371243,70.099998,55.663498,60.469208,65.985237,59.301285
+75,"   59. Dancers, actors, directors and performers",59,"Dancers, actors, directors and performers",2,14,59,57.525749,64.199997,55.663498,60.469208,65.985237,59.301285
+76, (15) Other Specialist Professionals,15),Other Specialist Professionals,2,15,,,,53.215611,60.469208,62.987766,59.301285
+77,   60. Librarians and curators,60,Librarians and curators,2,15,60,59.265724,65.699997,53.215611,60.469208,62.987766,59.301285
+78,   61. Private tutors (for music),61,Private tutors (for music),2,15,61,47.789364,62.900002,53.215611,60.469208,62.987766,59.301285
+79,"   62. Private tutors (for dance, actor, direction, performance)",62,"Private tutors (for dance, actor, direction, performance)",2,15,62,43.706966,57.099998,53.215611,60.469208,62.987766,59.301285
+80,   63. Private tutors (for sports),63,Private tutors (for sports),2,15,63,48.061386,56.099998,53.215611,60.469208,62.987766,59.301285
+81,   64. Private tutors (for study),64,Private tutors (for study),2,15,64,54.53688,64.699997,53.215611,60.469208,62.987766,59.301285
+82,   65. Private tutors (not classified elsewhere),65,Private tutors (not classified elsewhere),2,15,65,45.941288,61.200001,53.215611,60.469208,62.987766,59.301285
+83,   66. Sports professionals,66,Sports professionals,2,15,66,53.098015,55.099998,53.215611,60.469208,62.987766,59.301285
+84,   67. Communication equipment operators,67,Communication equipment operators,2,15,67,60.027725,54.900002,53.215611,60.469208,62.987766,59.301285
+85,   68. Specialist professionals not classified elsewhere,68,Specialist professionals not classified elsewhere,2,15,68,59.721687,67.300003,53.215611,60.469208,62.987766,59.301285
+86,C. CLERICAL WORKERS,C,CLERICAL WORKERS,3,,,,,,53.167397,,55.900475
+87, (16) General Clerical Workers,16),General Clerical Workers,3,16,,,,53.869633,53.167397,56.686264,55.900475
+88,   69. General affairs and human affairs workers,69,General affairs and human affairs workers,3,16,69,52.739723,54.5,53.869633,53.167397,56.686264,55.900475
+89,   70. Reception and guidance clerical workers,70,Reception and guidance clerical workers,3,16,70,44.242378,56.400002,53.869633,53.167397,56.686264,55.900475
+90,   71. Telephone receptionists,71,Telephone receptionists,3,16,71,46.407745,54,53.869633,53.167397,56.686264,55.900475
+91,   72. Comprehensive clerical workers,72,Comprehensive clerical workers,3,16,72,50.44313,55.400002,53.869633,53.167397,56.686264,55.900475
+92,   73. Other general clerical workers,73,Other general clerical workers,3,16,73,58.39254,58.599998,53.869633,53.167397,56.686264,55.900475
+93, (17) Accountancy Clerks,17),Accountancy Clerks,3,17,,,,50.792568,53.167397,57.799999,55.900475
+94,   74. Accountancy clerks,74,Accountancy clerks,3,17,74,50.792568,57.799999,50.792568,53.167397,57.799999,55.900475
+95, (18) Production-Related Clerical Workers,18),Production-Related Clerical Workers,3,18,,,,52.622688,53.167397,47.5,55.900475
+96,   75. Production-related clerical workers,75,Production-related clerical workers,3,18,75,52.622688,47.5,52.622688,53.167397,47.5,55.900475
+97, (19) Sales Clerks,19),Sales Clerks,3,19,,,,55.82962,53.167397,52.799999,55.900475
+98,   76. Sales clerks,76,Sales clerks,3,19,76,55.82962,52.799999,55.82962,53.167397,52.799999,55.900475
+99, (20) Outdoor Service Workers,20),Outdoor Service Workers,3,20,,,,42.674614,53.167397,48.183758,55.900475
+100,   77. Money collectors,77,Money collectors,3,20,77,42.947502,47.599998,42.674614,53.167397,48.183758,55.900475
+101,   78. Investigators,78,Investigators,3,20,78,45.449982,60.599998,42.674614,53.167397,48.183758,55.900475
+102,   79. Other outdoor service workers,79,Other outdoor service workers,3,20,79,41.960484,46.299999,42.674614,53.167397,48.183758,55.900475
+103, (21) Transport and Post Clerical Workers,21),Transport and Post Clerical Workers,3,21,,,,49.512466,53.167397,49.672459,55.900475
+104,   80. Transport clerical workers,80,Transport clerical workers,3,21,80,50.561237,44.700001,49.512466,53.167397,49.672459,55.900475
+105,   81. Post clerical workers,81,Post clerical workers,3,21,81,48.515354,54.400002,49.512466,53.167397,49.672459,55.900475
+106, (22) Office Appliance Operators,22),Office Appliance Operators,3,22,,,,48.789379,53.167397,52.455055,55.900475
+107,   82. Personal computer operators,82,Personal computer operators,3,22,82,49.827499,51.700001,48.789379,53.167397,52.455055,55.900475
+108,   83. Data entry device operators,83,Data entry device operators,3,22,83,45.698849,53.200001,48.789379,53.167397,52.455055,55.900475
+109,   84. Other office appliance operators,84,Other office appliance operators,3,22,84,51.793602,52.700001,48.789379,53.167397,52.455055,55.900475
+110,D. SALES WORKERS,D,SALES WORKERS,4,,,,,,51.413013,,49.337917
+111, (23) Merchandise Sales Workers,23),Merchandise Sales Workers,4,23,,,,44.707706,51.413013,46.999153,49.337917
+112,"   85. Retailers, retail manager",85,"Retailers, retail manager",4,23,85,48.02993,50.5,44.707706,51.413013,46.999153,49.337917
+113,"   86. Wholesalers, wholesale manager",86,"Wholesalers, wholesale manager",4,23,86,50.498402,52.099998,44.707706,51.413013,46.999153,49.337917
+114,   87. Shop assistants,87,Shop assistants,4,23,87,44.314762,46.599998,44.707706,51.413013,46.999153,49.337917
+115,   88. Home visit and mobile sales workers,88,Home visit and mobile sales workers,4,23,88,39.862858,45.900002,44.707706,51.413013,46.999153,49.337917
+116,   89. Recycled resources collection and wholesale workers,89,Recycled resources collection and wholesale workers,4,23,89,39.288525,43.099998,44.707706,51.413013,46.999153,49.337917
+117,   90. Goods purchase canvassers,90,Goods purchase canvassers,4,23,90,56.41378,52.5,44.707706,51.413013,46.999153,49.337917
+118, (24) Quasi-Sales Workers,24),Quasi-Sales Workers,4,24,,,,54.072746,51.413013,54.14645,49.337917
+119,   91. Real estate agents and dealers,91,Real estate agents and dealers,4,24,91,58.902836,59.5,54.072746,51.413013,54.14645,49.337917
+120,   92. Insurance agents and brokers,92,Insurance agents and brokers,4,24,92,54.405014,54.299999,54.072746,51.413013,54.14645,49.337917
+121,   93. Other quasi-sales workers,93,Other quasi-sales workers,4,24,93,51.278248,51.099998,54.072746,51.413013,54.14645,49.337917
+122, (25) Sales Workers,25),Sales Workers,4,25,,,,59.236919,51.413013,51.633972,49.337917
+123,   94. Medicine sales workers,94,Medicine sales workers,4,25,94,67.5793,60.900002,59.236919,51.413013,51.633972,49.337917
+124,"   95. Machinery, communication and system sales workers",95,"Machinery, communication and system sales workers",4,25,95,60.843151,51.799999,59.236919,51.413013,51.633972,49.337917
+125,   96. Finance and insurance sales workers,96,Finance and insurance sales workers,4,25,96,57.369705,49.5,59.236919,51.413013,51.633972,49.337917
+126,   97. Real estate sales workers,97,Real estate sales workers,4,25,97,58.463814,54.700001,59.236919,51.413013,51.633972,49.337917
+127,   98. Other sales workers,98,Other sales workers,4,25,98,58.791771,51.5,59.236919,51.413013,51.633972,49.337917
+128,E. SERVICE WORKERS,E,SERVICE WORKERS,5,,,,,,42.69767,,44.431721
+129, (26) Domestic Support Service Workers,26),Domestic Support Service Workers,5,26,,,,34.80352,42.69767,49.159191,44.431721
+130,"   99. Housekeepers, home helpers",99,"Housekeepers, home helpers",5,26,99,33.399933,46.400002,34.80352,42.69767,49.159191,44.431721
+131,   100. Other domestic support service workers,100,Other domestic support service workers,5,26,100,37.571228,54.599998,34.80352,42.69767,49.159191,44.431721
+132, (27) Care Service Workers,27),Care Service Workers,5,27,,,,44.063278,42.69767,45.240936,44.431721
+133,"   101. Care workers (medical and welfare facilities, etc.)",101,"Care workers (medical and welfare facilities, etc.)",5,27,101,45.574951,44.599998,44.063278,42.69767,45.240936,44.431721
+134,   102. Home visiting care workers,102,Home visiting care workers,5,27,102,39.678627,47.099998,44.063278,42.69767,45.240936,44.431721
+135, (28) Healthcare Service Workers,28),Healthcare Service Workers,5,28,,,,43.2481,42.69767,52.331005,44.431721
+136,   103. Care assistants,103,Care assistants,5,28,103,43.290512,45.299999,43.2481,42.69767,52.331005,44.431721
+137,   104. Other healthcare service workers,104,Other healthcare service workers,5,28,104,43.213303,58.099998,43.2481,42.69767,52.331005,44.431721
+138, (29) Domestic Hygiene Service Workers,29),Domestic Hygiene Service Workers,5,29,,,,43.349995,42.69767,43.001793,44.431721
+139,   105. Hairdressers,105,Hairdressers,5,29,105,44.248535,40.5,43.349995,42.69767,43.001793,44.431721
+140,   106. Beauticians,106,Beauticians,5,29,106,46.437603,42.299999,43.349995,42.69767,43.001793,44.431721
+141,   107. Cosmetic service workers (except beauticians),107,Cosmetic service workers (except beauticians),5,29,107,41.541061,50.099998,43.349995,42.69767,43.001793,44.431721
+142,   108. Bath workers,108,Bath workers,5,29,108,38.977654,38.900002,43.349995,42.69767,43.001793,44.431721
+143,   109. Launderers and fullers,109,Launderers and fullers,5,29,109,36.319885,42.700001,43.349995,42.69767,43.001793,44.431721
+144, (30) Food and Drink Preparatory Workers,30),Food and Drink Preparatory Workers,5,30,,,,40.984447,42.69767,41.908527,44.431721
+145,   110. Cooks,110,Cooks,5,30,110,40.958054,41.900002,40.984447,42.69767,41.908527,44.431721
+146,   111. Bartenders,111,Bartenders,5,30,111,45.293091,43.299999,40.984447,42.69767,41.908527,44.431721
+147, (31) Customer Service Workers,31),Customer Service Workers,5,31,,,,41.51133,42.69767,41.536087,44.431721
+148,"   112. Restaurateurs, restaurant managers",112,"Restaurateurs, restaurant managers",5,31,112,44.023148,40.599998,41.51133,42.69767,41.536087,44.431721
+149,   113. Japanese inn owners and managers,113,Japanese inn owners and managers,5,31,113,50.987942,39.400002,41.51133,42.69767,41.536087,44.431721
+150,   114. Food and drink service and personal assistance workers,114,Food and drink service and personal assistance workers,5,31,114,39.808411,41.5,41.51133,42.69767,41.536087,44.431721
+151,   115. Customer entertainment workers,115,Customer entertainment workers,5,31,115,33.085636,28.5,41.51133,42.69767,41.536087,44.431721
+152,"   116. Service workers in places of entertainment, etc.",116,"Service workers in places of entertainment, etc.",5,31,116,44.427261,42.799999,41.51133,42.69767,41.536087,44.431721
+153," (32) Residential Facilities, Office Buildings and Other Management Personnel",32),"Residential Facilities, Office Buildings, and Other Management Personnel",5,32,,,,50.793468,42.69767,52.090153,44.431721
+154,"   117. Condominiums, apartment buildings, lodging houses, hostel and dormitory management personnel",117,"Condominiums, apartment buildings, lodging houses, hostel and dormitory management personnel",5,32,117,50.645626,53.799999,50.793468,42.69767,52.090153,44.431721
+155,   118. Office building management personnel,118,Office building management personnel,5,32,118,55.169819,52.099998,50.793468,42.69767,52.090153,44.431721
+156,   119. Car park management personnel,119,Car park management personnel,5,32,119,46.400547,46.299999,50.793468,42.69767,52.090153,44.431721
+157, (33) Other Service Workers,33),Other Service Workers,5,33,,,,44.827446,42.69767,54.118809,44.431721
+158,   120. Travel and tourist guides,120,Travel and tourist guides,5,33,120,48.224705,51.700001,44.827446,42.69767,54.118809,44.431721
+159,   121. Left luggage handlers,121,Left luggage handlers,5,33,121,41.756584,41.099998,44.827446,42.69767,54.118809,44.431721
+160,   122. Commodity hire workers,122,Commodity hire workers,5,33,122,46.421085,48.799999,44.827446,42.69767,54.118809,44.431721
+161,   123. Advertisers,123,Advertisers,5,33,123,43.522285,49.799999,44.827446,42.69767,54.118809,44.431721
+162,"   124. Undertakers, crematorium workers",124,"Undertakers, crematorium workers",5,33,124,44.741661,46.299999,44.827446,42.69767,54.118809,44.431721
+163,   125. Service workers not classified elsewhere,125,Service workers not classified elsewhere,5,33,125,44.557056,57.5,44.827446,42.69767,54.118809,44.431721
+164,F. SECURITY WORKERS,F,SECURITY WORKERS,6,,,,,,53.220631,,46.435093
+165, (34) Public Security Workers,34),Public Security Workers,6,34,,,,53.220631,53.220631,46.435093,46.435093
+166,   126. Self-defense officials,126,Self-defense officials,6,34,126,50.256496,43.200001,53.220631,53.220631,46.435093,46.435093
+167,   127. Police officers and maritime safety officials,127,Police officers and maritime safety officials,6,34,127,60.940392,55.099998,53.220631,53.220631,46.435093,46.435093
+168,   128. Prison guards and other judicial police staff,128,Prison guards and other judicial police staff,6,34,128,60.351673,53.200001,53.220631,53.220631,46.435093,46.435093
+169,   129. Firefighters,129,Firefighters,6,34,129,56.033833,51.5,53.220631,53.220631,46.435093,46.435093
+170,   130. Security staff,130,Security staff,6,34,130,47.68232,38.099998,53.220631,53.220631,46.435093,46.435093
+171,   131. Other public security workers not classified elsewhere,131,Other public security workers not classified elsewhere,6,34,131,43.239628,39.599998,53.220631,53.220631,46.435093,46.435093
+172,"G. AGRICULTURE, FORESTRY AND FISHERY WORKERS",G,"AGRICULTURE, FORESTRY AND FISHERY WORKERS",7,,,,,,37.363708,,42.89719
+173, (35) Agriculture Workers,35),Agriculture Workers,7,35,,,,37.645569,37.363708,43.715393,42.89719
+174,   132. Crop farming workers,132,Crop farming workers,7,35,132,36.458252,43.700001,37.645569,37.363708,43.715393,42.89719
+175,   133. Livestock farm workers,133,Livestock farm workers,7,35,133,41.414757,43,37.645569,37.363708,43.715393,42.89719
+176,"   134. Landscape gardeners, nursery workers135 Other agricultural workers",134,"Landscape gardeners, nursery workers135 Other agricultural workers",7,35,134,42.619431,44.599998,37.645569,37.363708,43.715393,42.89719
+177,   135. Other agricultural workers,135,Other agricultural workers,7,35,135,43.206852,44.799999,37.645569,37.363708,43.715393,42.89719
+178, (36) Forestry Workers,36),Forestry Workers,7,36,,,,39.990036,37.363708,39.375793,42.89719
+179,   136. Forest nursery workers,136,Forest nursery workers,7,36,136,41.123665,41.099998,39.990036,37.363708,39.375793,42.89719
+180,"   137. Tree-felling, logging, and collecting workers138 Other forestry workers",137,"Tree-felling, logging, and collecting workers138 Other forestry workers",7,36,137,37.900169,36.200001,39.990036,37.363708,39.375793,42.89719
+181,   138. Other forestry workers,138,Other forestry workers,7,36,138,43.563812,44.799999,39.990036,37.363708,39.375793,42.89719
+182, (37) Fishery Workers,37),Fishery Workers,7,37,,,,33.954765,37.363708,36.442516,42.89719
+183,   139. Fishery workers,139,Fishery workers,7,37,139,32.824799,32.900002,33.954765,37.363708,36.442516,42.89719
+184,"   140. Ships' captains, navigation officers, chief engineers, engineers (fishing boats)",140,"Ships' captains, navigation officers, chief engineers, engineers (fishing boats)",7,37,140,38.874187,37,33.954765,37.363708,36.442516,42.89719
+185,   141. Seaweed and shellfish harvesting workers,141,Seaweed and shellfish harvesting workers,7,37,141,31.58182,36.200001,33.954765,37.363708,36.442516,42.89719
+186,   142. Aquaculture workers,142,Aquaculture workers,7,37,142,36.710796,41.799999,33.954765,37.363708,36.442516,42.89719
+187,   143. Other fishery workers,143,Other fishery workers,7,37,143,24.196648,37.700001,33.954765,37.363708,36.442516,42.89719
+188,H. MANUFACTURING PROCESS WORKERS,H,MANUFACTURING PROCESS WORKERS,8,,,,,,44.548977,,42.917793
+189, (38) Product Manufacturing and Processing Workers (Metal products),38),Product Manufacturing and Processing Workers (Metal products),8,38,,,,44.032562,44.548977,40.845589,42.917793
+190,"   144. Pig-iron forging, steelmaking, non-ferrous metal smelting workers",144,"Pig-iron forging, steelmaking, non-ferrous metal smelting workers",8,38,144,48.32515,43.400002,44.032562,44.548977,40.845589,42.917793
+191,   145. Cast metal manufacturing and forging workers,145,Cast metal manufacturing and forging workers,8,38,145,45.067211,40.799999,44.032562,44.548977,40.845589,42.917793
+192,   146. Metal machine tools workers,146,Metal machine tools workers,8,38,146,45.975845,40.099998,44.032562,44.548977,40.845589,42.917793
+193,   147. Metal press workers,147,Metal press workers,8,38,147,42.288155,38.5,44.032562,44.548977,40.845589,42.917793
+194,"   148. Ironworkers, boilermakers",148,"Ironworkers, boilermakers",8,38,148,43.102959,44.099998,44.032562,44.548977,40.845589,42.917793
+195,   149. Sheet metal workers,149,Sheet metal workers,8,38,149,41.214062,42.900002,44.032562,44.548977,40.845589,42.917793
+196,   150. Metal sculpture and plating workers,150,Metal sculpture and plating workers,8,38,150,44.709942,40.5,44.032562,44.548977,40.845589,42.917793
+197,   151. Metal welding and fusion cutting workers,151,Metal welding and fusion cutting workers,8,38,151,40.914669,37.599998,44.032562,44.548977,40.845589,42.917793
+198,   152. Other product manufacturing and processing workers (metal products),152,Other product manufacturing and processing workers (metal products),8,38,152,44.740368,41.5,44.032562,44.548977,40.845589,42.917793
+199, (39) Product Manufacturing and Processing Workers (Except Metal Products),39),Product Manufacturing and Processing Workers (Except Metal Products),8,39,,,,41.816757,44.548977,41.678921,42.917793
+200,   153. Chemical product manufacturing workers,153,Chemical product manufacturing workers,8,39,153,49.268425,46.200001,41.816757,44.548977,41.678921,42.917793
+201,"   154. Ceramic, earth, and stone product manufacturing workers",154,"Ceramic, earth, and stone product manufacturing workers",8,39,154,44.020824,42,41.816757,44.548977,41.678921,42.917793
+202,   155. Food manufacturing workers,155,Food manufacturing workers,8,39,155,40.058361,39.400002,41.816757,44.548977,41.678921,42.917793
+203,   156. Beverage and cigarette manufacturing workers,156,Beverage and cigarette manufacturing workers,8,39,156,47.683773,43.900002,41.816757,44.548977,41.678921,42.917793
+204,"   157. Spinning, weaving, apparel, and fiber product manufacturing workers",157,"Spinning, weaving, apparel, and fiber product manufacturing workers",8,39,157,37.311031,39.5,41.816757,44.548977,41.678921,42.917793
+205,   158. Wooden and paper product manufacturing workers,158,Wooden and paper product manufacturing workers,8,39,158,41.648949,42,41.816757,44.548977,41.678921,42.917793
+206,   159. Printing and bookbinding workers,159,Printing and bookbinding workers,8,39,159,46.770657,46.599998,41.816757,44.548977,41.678921,42.917793
+207,"   160. Rubber, plastic product manufacturing workers",160,"Rubber, plastic product manufacturing workers",8,39,160,42.647339,40.299999,41.816757,44.548977,41.678921,42.917793
+208,   161. Other product manufacturing and processing workers (except metalproducts),161,Other product manufacturing and processing workers (except metalproducts),8,39,161,41.003407,45.299999,41.816757,44.548977,41.678921,42.917793
+209, (40) Machine Assembly Workers,40),Machine Assembly Workers,8,40,,,,45.628067,44.548977,42.235165,42.917793
+210,"   162. General-purpose, manufacturing, and business-use mechanical apparatus assembly workers",162,"General-purpose, manufacturing, and business-use mechanical apparatus assembly workers",8,40,162,46.818558,43.400002,45.628067,44.548977,42.235165,42.917793
+211,   163. Electro-mechanical apparatus assembly workers,163,Electro-mechanical apparatus assembly workers,8,40,163,44.368717,41.5,45.628067,44.548977,42.235165,42.917793
+212,   164. Automobile assembly workers,164,Automobile assembly workers,8,40,164,46.892445,42.200001,45.628067,44.548977,42.235165,42.917793
+213,   165. Transportation machinery assembly workers (except automobiles),165,Transportation machinery assembly workers (except automobiles),8,40,165,47.129005,44,45.628067,44.548977,42.235165,42.917793
+214,"   166. Weighing and measuring appliance, photo-optic mechanical apparatus assembly workers",166,"Weighing and measuring appliance, photo-optic mechanical apparatusassembly workers",8,40,166,44.24297,40,45.628067,44.548977,42.235165,42.917793
+215, (41) Machine Maintenance and Repair Workers,41),Machine Maintenance and Repair Workers,8,41,,,,48.96843,44.548977,47.222202,42.917793
+216,"   167. General-purpose, manufacturing, and business-use mechanical apparatus maintenance and repair workers",167,"General-purpose, manufacturing, and business-use mechanical apparatus maintenance and repair workers",8,41,167,49.972919,45.400002,48.96843,44.548977,47.222202,42.917793
+217,   168. Electro-mechanical apparatus maintenance and repair workers,168,Electro-mechanical apparatus maintenance and repair workers,8,41,168,52.388748,50.200001,48.96843,44.548977,47.222202,42.917793
+218,   169. Automobile maintenance and repair workers,169,Automobile maintenance and repair workers,8,41,169,46.626869,48.200001,48.96843,44.548977,47.222202,42.917793
+219,   170. Transportation machinery maintenance and repair workers (except automobiles),170,Transportation machinery maintenance and repair workers (except automobiles),8,41,170,50.88266,47.700001,48.96843,44.548977,47.222202,42.917793
+220,"   171. Weighing and measuring appliance, photo-optic mechanical apparatus maintenance and repair workers",171,"Weighing and measuring appliance, photo-optic mechanical apparatus maintenance and repair workers",8,41,171,48.171227,40.5,48.96843,44.548977,47.222202,42.917793
+221, (42) Product Inspection Workers,42),Product Inspection Workers,8,42,,,,44.648502,44.548977,42.282566,42.917793
+222,   172. Metal product inspection workers,172,Metal product inspection workers,8,42,172,45.456673,40.900002,44.648502,44.548977,42.282566,42.917793
+223,   173. Chemical product inspection workers,173,Chemical product inspection workers,8,42,173,51.011822,49.200001,44.648502,44.548977,42.282566,42.917793
+224,"   174. Ceramic, earth, and stone product inspection workers",174,"Ceramic, earth, and stone product inspection workers",8,42,174,46.956955,44.5,44.648502,44.548977,42.282566,42.917793
+225,   175. Food inspection workers,175,Food inspection workers,8,42,175,45.761745,41.599998,44.648502,44.548977,42.282566,42.917793
+226,   176. Beverage and cigarette inspection workers,176,Beverage and cigarette inspection workers,8,42,176,49.107475,40.299999,44.648502,44.548977,42.282566,42.917793
+227,"   177. Spinning, weaving, apparel, and fiber product inspection workers",177,"Spinning, weaving, apparel, and fiber product inspection workers",8,42,177,40.534836,41.200001,44.648502,44.548977,42.282566,42.917793
+228,   178. Wooden and paper product inspection workers,178,Wooden and paper product inspection workers,8,42,178,44.575745,43.299999,44.648502,44.548977,42.282566,42.917793
+229,   179. Printing and bookbinding inspection workers,179,Printing and bookbinding inspection workers,8,42,179,42.30814,46.900002,44.648502,44.548977,42.282566,42.917793
+230,"   180. Rubber, plastic product inspection workers",180,"Rubber, plastic product inspection workers",8,42,180,40.00515,39.299999,44.648502,44.548977,42.282566,42.917793
+231,   181. Other product inspection workers,181,Other product inspection workers,8,42,181,45.295609,42.099998,44.648502,44.548977,42.282566,42.917793
+232, (43) Machine Inspection Workers,43),Machine Inspection Workers,8,43,,,,46.027485,44.548977,41.33667,42.917793
+233,"   182. General-purpose, manufacturing, and business-use mechanical apparatus inspection workers",182,"General-purpose, manufacturing, and business-use mechanical apparatus inspection workers",8,43,182,47.015301,41.700001,46.027485,44.548977,41.33667,42.917793
+234,   183. Electro-mechanical apparatus inspection workers,183,Electro-mechanical apparatus inspection workers,8,43,183,45.231857,40.299999,46.027485,44.548977,41.33667,42.917793
+235,   184. Automobile inspection workers,184,Automobile inspection workers,8,43,184,47.313023,43.099998,46.027485,44.548977,41.33667,42.917793
+236,   185. Transportation machinery inspection workers (except automobiles),185,Transportation machinery inspection workers (except automobiles),8,43,185,52.236637,48.700001,46.027485,44.548977,41.33667,42.917793
+237,"   186. Weighing and measuring appliance, photo-optic mechanical apparatus inspection workers",186,"Weighing and measuring appliance, photo-optic mechanical apparatusinspection workers",8,43,186,42.325985,40.700001,46.027485,44.548977,41.33667,42.917793
+238, (44) Manufacturing-Related and Quasi-Manufacturing Workers,44),Manufacturing-Related and Quasi-Manufacturing Workers,8,44,,,,49.128151,44.548977,49.088165,42.917793
+239,"   187. Painters, paint and signboard production workers",187,"Painters, paint and signboard production workers",8,44,187,39.670982,43.900002,49.128151,44.548977,49.088165,42.917793
+240,   188. Manufacturing-related workers (except painters，paint･signboard production),188,Manufacturing-related workers (except painters，paint･signboard production),8,44,188,56.724712,53.299999,49.128151,44.548977,49.088165,42.917793
+241,   189. Quasi-manufacturing workers,189,Quasi-manufacturing workers,8,44,189,48.427418,48.400002,49.128151,44.548977,49.088165,42.917793
+242,I. TRANSPORT AND MACHINE OPERATION WORKERS,I,TRANSPORT AND MACHINE OPERATION WORKERS,9,,,,,,43.928555,,38.793415
+243, (45) Railway Drivers,45),Railway Drivers,9,45,,,,50.251541,43.928555,45.599998,38.793415
+244,   190. Railway drivers,190,Railway drivers,9,45,190,50.251541,45.599998,50.251541,43.928555,45.599998,38.793415
+245, (46) Motor Vehicle Drivers,46),Motor Vehicle Drivers,9,46,,,,42.722385,43.928555,37.299999,38.793415
+246,   191. Motor vehicle drivers,191,Motor vehicle drivers,9,46,191,42.722385,37.299999,42.722385,43.928555,37.299999,38.793415
+247, (47) Ship and Aircraft Operators,47),Ship and Aircraft Operators,9,47,,,,55.5135,43.928555,47.834652,38.793415
+248,"   192. Ship captains, navigation officers, navigators (except fishing boats) and pilots",192,"Ship captains, navigation officers, navigators (except fishing boats) andpilots",9,47,192,50.589508,45.200001,55.5135,43.928555,47.834652,38.793415
+249,"   193. Ships' chief engineers, engineers (except fishing boats)",193,"Ships' chief engineers, engineers (except fishing boats)",9,47,193,49.655209,41.400002,55.5135,43.928555,47.834652,38.793415
+250,   194. Aircraft pilots,194,Aircraft pilots,9,47,194,71.951363,59.700001,55.5135,43.928555,47.834652,38.793415
+251, (48) Other Transport Workers,48),Other Transport Workers,9,48,,,,44.17276,43.928555,39.467686,38.793415
+252,   195. Conductors,195,Conductors,9,48,195,49.170963,45.5,44.17276,43.928555,39.467686,38.793415
+253,"   196. Deckhands, dual purpose crew and ships stokers",196,"Deckhands, dual purpose crew and ships stokers",9,48,196,47.919434,37.099998,44.17276,43.928555,39.467686,38.793415
+254,   197. Transport workers not classified elsewhere,197,Transport workers not classified elsewhere,9,48,197,42.073612,38,44.17276,43.928555,39.467686,38.793415
+255, (49) Stationary and Construction Machinery Operators,49),Stationary and Construction Machinery Operators,9,49,,,,47.201,43.928555,43.216381,38.793415
+256,   198. Power plant and substation workers,198,Power plant and substation workers,9,49,198,52.651031,50,47.201,43.928555,43.216381,38.793415
+257,   199. Boiler operators,199,Boiler operators,9,49,199,47.72979,40.799999,47.201,43.928555,43.216381,38.793415
+258,"   200. Crane, winch operators",200,"Crane, winch operators",9,49,200,42.841904,38.599998,47.201,43.928555,43.216381,38.793415
+259,"   201. Construction, well-drilling machinery operators",201,"Construction, well-drilling machinery operators",9,49,201,39.836613,37.799999,47.201,43.928555,43.216381,38.793415
+260,   202. Other stationary and construction machinery operators,202,Other stationary and construction machinery operators,9,49,202,51.796589,46.200001,47.201,43.928555,43.216381,38.793415
+261,J. CONSTRUCTION AND MINING WORKERS,J,CONSTRUCTION AND MINING WORKERS,10,,,,,,43.315323,,44.227413
+262, (50) Construction and Civil Engineering Workers,50),Construction and Civil Engineering Workers,10,50,,,,42.11591,43.315323,43.306255,44.227413
+263,   203. Molding box carpenters,203,Molding box carpenters,10,50,203,35.721523,35.5,42.11591,43.315323,43.306255,44.227413
+264,   204. Scaffolding workers (Tobishoku),204,Scaffolding workers (Tobishoku),10,50,204,35.760067,40.799999,42.11591,43.315323,43.306255,44.227413
+265,   205. Steel reinforcement workers,205,Steel reinforcement workers,10,50,205,36.379784,42.799999,42.11591,43.315323,43.306255,44.227413
+266,   206. Carpenters,206,Carpenters,10,50,206,38.519218,39.200001,42.11591,43.315323,43.306255,44.227413
+267,   207. Block and tile laying workers,207,Block and tile laying workers,10,50,207,37.486565,38,42.11591,43.315323,43.306255,44.227413
+268,   208. Roofing workers,208,Roofing workers,10,50,208,39.652748,46.099998,42.11591,43.315323,43.306255,44.227413
+269,   209. Plasterers,209,Plasterers,10,50,209,34.549839,33.299999,42.11591,43.315323,43.306255,44.227413
+270,   210. Tatami workers,210,Tatami workers,10,50,210,41.392422,46.599998,42.11591,43.315323,43.306255,44.227413
+271,   211. Pipe laying workers,211,Pipe laying workers,10,50,211,43.635918,46.900002,42.11591,43.315323,43.306255,44.227413
+272,   212. Civil engineering workers,212,Civil engineering workers,10,50,212,42.108894,41.099998,42.11591,43.315323,43.306255,44.227413
+273,   213. Railway line construction workers,213,Railway line construction workers,10,50,213,48.934544,42,42.11591,43.315323,43.306255,44.227413
+274,   214. Other construction and civil engineering workers,214,Other construction and civil engineering workers,10,50,214,46.556206,48.400002,42.11591,43.315323,43.306255,44.227413
+275, (51) Electric Construction Workers,51),Electric Construction Workers,10,51,,,,47.999207,43.315323,47.889805,44.227413
+276,   215. Line hanging and laying workers,215,Line hanging and laying workers,10,51,215,48.996326,44.599998,47.999207,43.315323,47.889805,44.227413
+277,   216. Telecommunication equipment construction workers,216,Telecommunication equipment construction workers,10,51,216,51.190002,50.700001,47.999207,43.315323,47.889805,44.227413
+278,   217. Other electric construction workers,217,Other electric construction workers,10,51,217,46.988319,47.5,47.999207,43.315323,47.889805,44.227413
+279, (52) Mine Workers,52),Mine Workers,10,52,,,,44.307442,43.315323,40.942413,44.227413
+280,"   218. Gravel, sand and clay quarrying workers",218,"Gravel, sand and clay quarrying workers",10,52,218,38.53791,36.599998,44.307442,43.315323,40.942413,44.227413
+281,   219. Other mine workers,219,Other mine workers,10,52,219,46.77552,42.799999,44.307442,43.315323,40.942413,44.227413
+282,"K. CARRYING, CLEANING, PACKAGING, AND RELATED WORKERS",K,"CARRYING, CLEANING, PACKAGING, AND RELATED WORKERS",11,,,,,,39.553322,,41.562363
+283, (53) Carrying Workers,53),Carrying Workers,11,53,,,,42.333294,39.553322,42.424347,41.562363
+284,   220. Mail and telegram collection and delivery workers,220,Mail and telegram collection and delivery workers,11,53,220,49.232487,46.599998,42.333294,39.553322,42.424347,41.562363
+285,   221. Onboard and quayside cargo handlers,221,Onboard and quayside cargo handlers,11,53,221,45.057678,38.200001,42.333294,39.553322,42.424347,41.562363
+286,   222. Land-based cargo handling and carrying workers,222,Land-based cargo handling and carrying workers,11,53,222,41.950211,41.099998,42.333294,39.553322,42.424347,41.562363
+287,   223. Warehouse workers,223,Warehouse workers,11,53,223,43.573612,43.099998,42.333294,39.553322,42.424347,41.562363
+288,   224. Delivery workers,224,Delivery workers,11,53,224,41.292641,42.400002,42.333294,39.553322,42.424347,41.562363
+289,   225. Packing workers,225,Packing workers,11,53,225,40.416145,41,42.333294,39.553322,42.424347,41.562363
+290, (54) Cleaning Workers,54),Cleaning Workers,11,54,,,,36.814766,39.553322,38.807571,41.562363
+291,   226. Building cleaning workers,226,Building cleaning workers,11,54,226,34.733364,38.099998,36.814766,39.553322,38.807571,41.562363
+292,   227. Waste treatment workers,227,Waste treatment workers,11,54,227,43.137901,39.400002,36.814766,39.553322,38.807571,41.562363
+293,   228. House cleaning workers,228,House cleaning workers,11,54,228,36.701973,47.200001,36.814766,39.553322,38.807571,41.562363
+294,   229. Other cleaning workers,229,Other cleaning workers,11,54,229,38.55513,39.700001,36.814766,39.553322,38.807571,41.562363
+295, (55) Packaging Workers,55),Packaging Workers,11,55,,,,33.796581,39.553322,39.900002,41.562363
+296,   230. Packaging workers,230,Packaging workers,11,55,230,33.796581,39.900002,33.796581,39.553322,39.900002,41.562363
+297," (56) Other Carrying, Cleaning, Packaging, and Related Workers",56),"Other Carrying, Cleaning, Packaging, and Related Workers",11,56,,,,38.776096,39.553322,43.5,41.562363
+298,"   231. Other carrying, cleaning, packaging, and related workers",231,"Other carrying, cleaning, packaging, and related workers",11,56,231,38.776096,43.5,38.776096,39.553322,43.5,41.562363
+299,L. WORKERS NOT CLASSIFIABLE BY OCCUPATION,L,WORKERS NOT CLASSIFIABLE BY OCCUPATION,12,,,,,,,,
+300, (57) Workers Not Classifiable by Occupation,57),Workers Not Classifiable by Occupation,12,57,,,,,,,
+301,   232. Workers not classifiable by occupation,232,Workers not classifiable by occupation,12,57,232,,,,,,
