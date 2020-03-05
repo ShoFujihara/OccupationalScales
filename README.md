@@ -1,4 +1,4 @@
-# OccupationalScales
+# Occupational Scales for Japanese society
 Socio-Economic Index (SEI) and Social Status Index (SSI) for Japanese society.
 
 Fujihara, Sho. *forthcoming*. "Socio-Economic Standing and Social Status in Contemporary Japan: Scale Constructions and Their Applications." *European Sociological Review*.
