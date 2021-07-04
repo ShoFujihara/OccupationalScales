@@ -132,10 +132,10 @@ title,name,occ,sei,ssi
    131. Other public security workers not classified elsewhere,Other public security workers not classified elsewhere,131,43.239628,39.599998
    132. Crop farming workers,Crop farming workers,132,36.458252,43.700001
    133. Livestock farm workers,Livestock farm workers,133,41.414757,43
-"   134. Landscape gardeners, nursery workers135 Other agricultural workers","Landscape gardeners, nursery workers135 Other agricultural workers",134,42.619431,44.599998
+"   134. Landscape gardeners, nursery workers","Landscape gardeners, nursery workers",134,42.619431,44.599998
    135. Other agricultural workers,Other agricultural workers,135,43.206852,44.799999
    136. Forest nursery workers,Forest nursery workers,136,41.123665,41.099998
-"   137. Tree-felling, logging, and collecting workers138 Other forestry workers","Tree-felling, logging, and collecting workers138 Other forestry workers",137,37.900169,36.200001
+"   137. Tree-felling, logging, and collecting workers","Tree-felling, logging, and collecting workers",137,37.900169,36.200001
    138. Other forestry workers,Other forestry workers,138,43.563812,44.799999
    139. Fishery workers,Fishery workers,139,32.824799,32.900002
 "   140. Ships' captains, navigation officers, chief engineers, engineers (fishing boats)","Ships' captains, navigation officers, chief engineers, engineers (fishing boats)",140,38.874187,37
@@ -164,7 +164,7 @@ title,name,occ,sei,ssi
    163. Electro-mechanical apparatus assembly workers,Electro-mechanical apparatus assembly workers,163,44.368717,41.5
    164. Automobile assembly workers,Automobile assembly workers,164,46.892445,42.200001
    165. Transportation machinery assembly workers (except automobiles),Transportation machinery assembly workers (except automobiles),165,47.129005,44
-"   166. Weighing and measuring appliance, photo-optic mechanical apparatus assembly workers","Weighing and measuring appliance, photo-optic mechanical apparatusassembly workers",166,44.24297,40
+"   166. Weighing and measuring appliance, photo-optic mechanical apparatus assembly workers","Weighing and measuring appliance, photo-optic mechanical apparatus assembly workers",166,44.24297,40
 "   167. General-purpose, manufacturing, and business-use mechanical apparatus maintenance and repair workers","General-purpose, manufacturing, and business-use mechanical apparatus maintenance and repair workers",167,49.972919,45.400002
    168. Electro-mechanical apparatus maintenance and repair workers,Electro-mechanical apparatus maintenance and repair workers,168,52.388748,50.200001
    169. Automobile maintenance and repair workers,Automobile maintenance and repair workers,169,46.626869,48.200001
@@ -184,13 +184,13 @@ title,name,occ,sei,ssi
    183. Electro-mechanical apparatus inspection workers,Electro-mechanical apparatus inspection workers,183,45.231857,40.299999
    184. Automobile inspection workers,Automobile inspection workers,184,47.313023,43.099998
    185. Transportation machinery inspection workers (except automobiles),Transportation machinery inspection workers (except automobiles),185,52.236637,48.700001
-"   186. Weighing and measuring appliance, photo-optic mechanical apparatus inspection workers","Weighing and measuring appliance, photo-optic mechanical apparatusinspection workers",186,42.325985,40.700001
+"   186. Weighing and measuring appliance, photo-optic mechanical apparatus inspection workers","Weighing and measuring appliance, photo-optic mechanical apparatus inspection workers",186,42.325985,40.700001
 "   187. Painters, paint and signboard production workers","Painters, paint and signboard production workers",187,39.670982,43.900002
-   188. Manufacturing-related workers (except painters¼Œpaint½¥signboard production),Manufacturing-related workers (except painters¼Œpaint½¥signboard production),188,56.724712,53.299999
+"   188. Manufacturing-related workers (except painters, paint-signboard production)","Manufacturing-related workers (except painters, paint-signboard production)",188,56.724712,53.299999
    189. Quasi-manufacturing workers,Quasi-manufacturing workers,189,48.427418,48.400002
    190. Railway drivers,Railway drivers,190,50.251541,45.599998
    191. Motor vehicle drivers,Motor vehicle drivers,191,42.722385,37.299999
-"   192. Ship captains, navigation officers, navigators (except fishing boats) and pilots","Ship captains, navigation officers, navigators (except fishing boats) andpilots",192,50.589508,45.200001
+"   192. Ship captains, navigation officers, navigators (except fishing boats) and pilots","Ship captains, navigation officers, navigators (except fishing boats) and pilots",192,50.589508,45.200001
 "   193. Ships' chief engineers, engineers (except fishing boats)","Ships' chief engineers, engineers (except fishing boats)",193,49.655209,41.400002
    194. Aircraft pilots,Aircraft pilots,194,71.951363,59.700001
    195. Conductors,Conductors,195,49.170963,45.5
