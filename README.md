@@ -30,5 +30,5 @@ These scales are scheduled to be updated with data including JESS 2022.
   - ICAMS: International CAMSIS scale
 
 **References**
-Song, Xi, and Yu Xie. 2023. “Occupational Percentile Rank: A New Method for Constructing a Socioeconomic Index of Occupational Status.” Sociological Methods & Research 00491241231207914. doi:10.1177/00491241231207914.
-Oesch, Daniel, Oliver Lipps, Roujman Shahbazian, Erik Bihagen, and Katy Morris. 2025. “Occupational Earning Potential: A New Measure of Social Hierarchy in Europe and the US.” European Sociological Review jcaf035. doi:10.1093/esr/jcaf035.
+- Song, Xi, and Yu Xie. 2023. “Occupational Percentile Rank: A New Method for Constructing a Socioeconomic Index of Occupational Status.” Sociological Methods & Research 00491241231207914. doi:10.1177/00491241231207914.
+- Oesch, Daniel, Oliver Lipps, Roujman Shahbazian, Erik Bihagen, and Katy Morris. 2025. “Occupational Earning Potential: A New Measure of Social Hierarchy in Europe and the US.” European Sociological Review jcaf035. doi:10.1093/esr/jcaf035.
