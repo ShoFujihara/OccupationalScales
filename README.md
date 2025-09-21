@@ -6,3 +6,22 @@ Fujihara, Sho. 2020. "Socio-Economic Standing and Social Status in Contemporary 
 - JESS: Occupational titles used in the Employment Status Survey and Population Census in Japan.
 - SSM: Occupational titles used in the Social Stratification and Social Mobility Surveys (SSM_sei_ssi_v1.0.csv or SSM_sei_ssi_v1.0.dta).
 
+# Update for Gender-specific SEI
+
+- Variables
+  - Education,
+  - Earnings, 
+  - Prestige, 
+  - Status,
+  - DSEI,
+  - TSEI,
+  - MSEI,
+  - FSEI,
+  - OPR_E,
+  - OPR_I, 
+  - OPR_W,
+  - OEP_W,
+  - SIOPS,
+  - ISEI,
+  - ICAMS
+
