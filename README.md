@@ -8,20 +8,20 @@ Fujihara, Sho. 2020. "Socio-Economic Standing and Social Status in Contemporary 
 
 # Update for Gender-specific SEI
 
-- Variables
-  - Education,
-  - Earnings, 
-  - Prestige, 
-  - Status,
-  - DSEI,
-  - TSEI,
-  - MSEI,
-  - FSEI,
-  - OPR_E,
-  - OPR_I, 
-  - OPR_W,
-  - OEP_W,
-  - SIOPS,
-  - ISEI,
-  - ICAMS
 
+- Variables
+  - Education: Average years of education
+  - Earnings: Average logged earnings
+  - Prestige: Occupational prestige score
+  - Status: Status/CAMSIS index
+  - DSEI: Duncan-type SEI
+  - TSEI: SEI for total population
+  - MSEI: SEI for male population
+  - FSEI: SEI for female population
+  - OPR_E: Occupational percentile rank based on education
+  - OPR_I: Occupational percentile rank based on earnings
+  - OPR_W: Occupational percentile rank based on wages
+  - OEP_W: Occupational earning potential scale base on wages
+  - SIOPS: Standard international occupational prestige scale
+  - ISEI: International socioeconomix index
+  - ICAMS: International CAMSIS scale
