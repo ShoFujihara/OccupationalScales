@@ -16,7 +16,7 @@ These scales are scheduled to be updated with data including JESS 2022.
   - Education: Average years of education
   - Earnings: Average logged earnings
   - Prestige: Occupational prestige score
-  - Status: Status/CAMSIS index
+  - Status: Status index/CAMSIS
   - DSEI: Duncan-type SEI
   - TSEI: SEI for total population
   - MSEI: SEI for male population
