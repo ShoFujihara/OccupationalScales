@@ -8,6 +8,7 @@ Fujihara, Sho. 2020. "Socio-Economic Standing and Social Status in Contemporary 
 
 # Update for Gender-specific SEI
 
+`SSM_occupational_scales.csv`
 
 - Variables
   - Education: Average years of education
