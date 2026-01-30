@@ -63,14 +63,14 @@ Socio-Economic Index (SEI) and Social Status Index (SSI) for Japanese society.
 ```r
 # Load the data
 library(tidyverse)
-scales <- read_csv("https://raw.githubusercontent.com/ShoFujihara/OccupationalScales/master/JESS_occupational_scales_v0.3.csv")
+scales <- read_csv("https://raw.githubusercontent.com/ShoFujihara/OccupationalScales/master/JESS_232_sei_ssi_v1.0.csv")
 
-# Example: Compare MSEI and FSEI
+# Example: SEI vs SSI scatter plot
 scales |>
-  ggplot(aes(x = MSEI, y = FSEI)) +
+  ggplot(aes(x = sei, y = ssi)) +
   geom_point() +
   geom_abline(slope = 1, intercept = 0, linetype = "dashed") +
-  labs(title = "Gender-Specific SEI Comparison")
+  labs(x = "SEI", y = "SSI", title = "SEI vs SSI")
 ```
 
-![MSEI vs FSEI Comparison](figures/msei_fsei_comparison.svg)
+![SEI and SSI Overview](figures/sei_ssi_overview.svg)
