@@ -73,4 +73,4 @@ scales |>
   labs(title = "Gender-Specific SEI Comparison")
 ```
 
-![MSEI vs FSEI Comparison](figures/msei_fsei_comparison.png)
+![MSEI vs FSEI Comparison](figures/msei_fsei_comparison.svg)
