@@ -1,34 +1,74 @@
 # Occupational Scales for Japanese society
+
 Socio-Economic Index (SEI) and Social Status Index (SSI) for Japanese society.
 
-Fujihara, Sho. 2020. "Socio-Economic Standing and Social Status in Contemporary Japan: Scale Constructions and Their Applications." *European Sociological Review* 36(4):548–561. DOI: 10.1093/esr/jcaa010
+## References
 
-- JESS: Occupational titles used in the Employment Status Survey and Population Census in Japan.
-- SSM: Occupational titles used in the Social Stratification and Social Mobility Surveys (`SSM_sei_ssi_v1.0.csv` or `SSM_sei_ssi_v1.0.dta`).
+- Fujihara, Sho. 2020. "Socio-Economic Standing and Social Status in Contemporary Japan: Scale Constructions and Their Applications." *European Sociological Review* 36(4):548–561. DOI: [10.1093/esr/jcaa010](https://doi.org/10.1093/esr/jcaa010)
+- Song, Xi, and Yu Xie. 2023. "Occupational Percentile Rank: A New Method for Constructing a Socioeconomic Index of Occupational Status." *Sociological Methods & Research*. doi:10.1177/00491241231207914.
+- Oesch, Daniel, Oliver Lipps, Roujman Shahbazian, Erik Bihagen, and Katy Morris. 2025. "Occupational Earning Potential: A New Measure of Social Hierarchy in Europe and the US." *European Sociological Review*. doi:10.1093/esr/jcaf035.
 
-# Update for Gender-specific SEI
+## Data Files
 
-These scales are scheduled to be updated with data including JESS 2022.
+### JESS (Employment Status Survey / Population Census)
 
-`SSM_occupational_scales.csv` and `JESS_occupational_scales_v0.1.csv`
+| File | Description |
+|------|-------------|
+| `JESS_232_sei_ssi_v1.0.csv` | SEI and SSI for 232 occupations |
+| `JESS_sei_ssi_v1.0.csv` | SEI and SSI (detailed version) |
+| `JESS_occupational_scales_v0.3.csv` | **NEW**: Gender-Specific SEI (MSEI/FSEI) and other scales |
 
-- Variables
-  - Education: Average years of education
-  - Earnings: Average logged earnings
-  - Prestige: Occupational prestige score
-  - Status: Status index/CAMSIS
-  - DSEI: Duncan-type SEI
-  - TSEI: SEI for total population
-  - MSEI: SEI for male population
-  - FSEI: SEI for female population
-  - OPR_E: Occupational percentile rank based on education (Song and Xie 2023)
-  - OPR_I: Occupational percentile rank based on earnings
-  - OPR_W: Occupational percentile rank based on wages
-  - OEP_W: Occupational earning potential scale base on wages (Oesch et al. 2025)
-  - SIOPS: Standard international occupational prestige scale
-  - ISEI: International socioeconomix index
-  - ICAMS: International CAMSIS scale
+### SSM (Social Stratification and Social Mobility Survey)
 
-**References**
-- Song, Xi, and Yu Xie. 2023. “Occupational Percentile Rank: A New Method for Constructing a Socioeconomic Index of Occupational Status.” Sociological Methods & Research 00491241231207914. doi:10.1177/00491241231207914.
-- Oesch, Daniel, Oliver Lipps, Roujman Shahbazian, Erik Bihagen, and Katy Morris. 2025. “Occupational Earning Potential: A New Measure of Social Hierarchy in Europe and the US.” European Sociological Review jcaf035. doi:10.1093/esr/jcaf035.
+| File | Description |
+|------|-------------|
+| `SSM_sei_ssi_v1.0.csv` | SEI and SSI for SSM occupational categories |
+
+## Variables in `JESS_occupational_scales_v0.3.csv`
+
+| Variable | Description |
+|----------|-------------|
+| `occ` | Occupation code |
+| `title` | Occupation title |
+| `prop` | Proportion of workers |
+| `prop_women` | Proportion of women |
+| **Education & Earnings** | |
+| `Education` | Mean years of education |
+| `Earnings` | Mean log earnings |
+| **SEI Scores** | |
+| `TSEI` | Total SEI (combined) |
+| `MSEI` | Male-specific SEI |
+| `FSEI` | Female-specific SEI |
+| `TSEI_E`, `MSEI_E`, `FSEI_E` | Education component |
+| `TSEI_I`, `MSEI_I`, `FSEI_I` | Income component |
+| **Other Scales** | |
+| `Prestige` | Occupational prestige |
+| `Status` | Status index / CAMSIS |
+| `DSEI` | Duncan-type SEI |
+| `OPR` | Occupational Percentile Rank (Song and Xie 2023) |
+| `OEP` | Occupational Earnings Percentile |
+| `SIOPS` | Standard International Occupational Prestige Scale |
+| `ISEI` | International Socio-Economic Index |
+| `ICAMS` | International CAMSIS |
+| `GOEP` | Global Occupational Earnings Percentile (Oesch et al. 2025) |
+
+## External Scale Sources
+
+- **SIOPS**: Treiman, Donald J. 1977. *Occupational Prestige in Comparative Perspective*. Academic Press.
+- **ISEI**: Ganzeboom, Harry B.G., Paul M. De Graaf, and Donald J. Treiman. 1992. "A Standard International Socio-Economic Index of Occupational Status." *Social Science Research* 21(1):1-56.
+- **ICAMS**: Lambert, Paul S., and Erik Bihagen. 2014. "Using Occupation-Based Social Classifications." *Work, Employment and Society* 28(3):481-494.
+
+## Usage
+
+```r
+# Load the data
+library(tidyverse)
+scales <- read_csv("https://raw.githubusercontent.com/ShoFujihara/OccupationalScales/master/JESS_occupational_scales_v0.3.csv")
+
+# Example: Compare MSEI and FSEI
+scales |>
+  ggplot(aes(x = MSEI, y = FSEI)) +
+  geom_point() +
+  geom_abline(slope = 1, intercept = 0, linetype = "dashed") +
+  labs(title = "Gender-Specific SEI Comparison")
+```
