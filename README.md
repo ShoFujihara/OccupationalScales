@@ -14,9 +14,11 @@ Socio-Economic Index (SEI) and Social Status Index (SSI) for Japanese society.
 
 | File | Description |
 |------|-------------|
-| `JESS_232_sei_ssi_v1.0.csv` | SEI and SSI for 232 occupations |
+| `JESS_232_sei_ssi_v1.0.csv` | SEI and SSI for 231 occupations |
 | `JESS_sei_ssi_v1.0.csv` | SEI and SSI (detailed version) |
 | `JESS_occupational_scales_v0.3.csv` | **NEW**: Gender-Specific SEI (MSEI/FSEI) and other scales |
+
+Note: The original classification has 232 occupation codes, but code 232 ("Workers not classifiable by occupation") is excluded from scale estimation, resulting in 231 occupations.
 
 ### SSM (Social Stratification and Social Mobility Survey)
 
