@@ -19,7 +19,7 @@
     }
   ]]></style>
 </defs>
-<rect width='100%' height='100%' style='stroke: none; fill: none;'/>
+<rect width='100%' height='100%' style='stroke: none; fill: #FFFFFF;'/>
 <defs>
   <clipPath id='cpMC4wMHw1NzYuMDB8MC4wMHw1NzYuMDA='>
     <rect x='0.00' y='0.00' width='576.00' height='576.00' />
@@ -33,6 +33,7 @@
   </clipPath>
 </defs>
 <g clip-path='url(#cpMC4wMHw1NzYuMDB8NDAuNDB8NTM1LjYw)'>
+<rect x='0.00' y='40.40' width='576.00' height='495.20' style='stroke-width: 1.36; stroke: none; fill: #FFFFFF;' />
 </g>
 <g clip-path='url(#cpMC4wMHw1NzYuMDB8MC4wMHw1NzYuMDA=)'>
 </g>
@@ -42,6 +43,7 @@
   </clipPath>
 </defs>
 <g clip-path='url(#cpNDIuMTR8NTY5LjAzfDY5LjkxfDQ5NS41Mw==)'>
+<rect x='42.14' y='69.91' width='526.88' height='425.62' style='stroke-width: 1.36; stroke: none; fill: #FFFFFF;' />
 <polyline points='42.14,488.79 569.03,488.79 ' style='stroke-width: 0.68; stroke: #EBEBEB; stroke-linecap: butt;' />
 <polyline points='42.14,404.76 569.03,404.76 ' style='stroke-width: 0.68; stroke: #EBEBEB; stroke-linecap: butt;' />
 <polyline points='42.14,320.72 569.03,320.72 ' style='stroke-width: 0.68; stroke: #EBEBEB; stroke-linecap: butt;' />
