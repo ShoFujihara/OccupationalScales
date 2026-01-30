@@ -33,8 +33,8 @@ Socio-Economic Index (SEI) and Social Status Index (SSI) for Japanese society.
 | `prop` | Proportion of workers |
 | `prop_women` | Proportion of women |
 | **Education & Earnings** | |
-| `Education` | Mean years of education |
-| `Earnings` | Mean log earnings |
+| `Education` | Mean years of education of workers in the occupation |
+| `Earnings` | Mean log earnings of workers in the occupation |
 | **SEI Scores** | |
 | `TSEI` | Total SEI (combined) |
 | `MSEI` | Male-specific SEI |
