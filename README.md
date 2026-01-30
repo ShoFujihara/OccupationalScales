@@ -72,3 +72,5 @@ scales |>
   geom_abline(slope = 1, intercept = 0, linetype = "dashed") +
   labs(title = "Gender-Specific SEI Comparison")
 ```
+
+![MSEI vs FSEI Comparison](figures/msei_fsei_comparison.png)
