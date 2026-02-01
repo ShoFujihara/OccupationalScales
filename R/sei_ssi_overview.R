@@ -28,7 +28,7 @@ p1 <- d |>
 p2 <- d |>
   ggplot(aes(x = sei, y = ssi)) +
   geom_point(alpha = 0.6) +
-  geom_abline(slope = 1, intercept = 0, linetype = "dashed", color = "gray50") +
+  geom_abline(slope = 1, intercept = 0, color = "#E74C3C") +
   labs(
     title = "SEI vs SSI",
     x = "SEI",
