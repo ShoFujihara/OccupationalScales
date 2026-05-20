@@ -1,6 +1,8 @@
-
+[Fujihara and Wong RC28.pdf](https://github.com/user-attachments/files/28058341/Fujihara.and.Wong.RC28.pdf)
 # OSF draft
 https://osf.io/96ajy/overview?view_only=979f4991bc594002b90c54295e4ebfba
+
+[Uploading Fujihara and Wong RC28.pdf…]()
 
 # Occupational Scales for Japanese society
 
