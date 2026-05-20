@@ -1,3 +1,7 @@
+
+# OSF draft
+https://osf.io/96ajy/overview?view_only=979f4991bc594002b90c54295e4ebfba
+
 # Occupational Scales for Japanese society
 
 Socio-Economic Index (SEI) and Social Status Index (SSI) for Japanese society.
