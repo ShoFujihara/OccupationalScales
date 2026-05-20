@@ -1,5 +1,7 @@
 [Fujihara and Wong RC28.pdf](https://github.com/user-attachments/files/28058341/Fujihara.and.Wong.RC28.pdf)
+
 # OSF draft
+The replication materials are available at the following OSF repository (anonymous view-only link for peer review):
 https://osf.io/96ajy/overview?view_only=979f4991bc594002b90c54295e4ebfba
 
 # Occupational Scales for Japanese society
